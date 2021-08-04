@@ -1,8 +1,8 @@
-\\Create a ABC pattern
+/*Create a ABC pattern
 A
 AB
 ABC
-\\
+*/
 
 public class hello {
 
