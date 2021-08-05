@@ -14,7 +14,7 @@ class calc     // class calc
 public class hello {
 
     public static void main(String[] args) {
-        calc obj = new calc();        //careating a reference object
+        calc obj = new calc();        //creating a reference object
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the vaue number 1 :");
         obj.num1 = sc.nextInt();
