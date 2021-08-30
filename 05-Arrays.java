@@ -4,8 +4,12 @@ public class hello
 {
     public static void main(String args[])
     {
-        int nums[] = {9,6,5,7}; //int nums[] = new int[4]
-
+        int nums[] = {9,6,5,7};  // Declaration & initialization!
+        //int nums[] = new int[4] > Declaration & MemoryAllocation   
+        /*int[] nums              > Declaration
+        nums = new int[5]           Memory Allocation
+        */
+                                
       
         for(int i =0;i<4;i++)
         {
